@@ -56,5 +56,23 @@ div
 
 .programmeur
 {
-    margin: auto ;
+    margin-left: auto ;
+    margin-right: auto;
+    float:center;
+}
+.logo2
+{
+    margin-left: auto ;
+    margin-right: auto;
+    float : center ;
+}
+
+.h1
+{
+    color :#fff;
+}
+
+.centerquote
+{
+    background-color: #fff;
 }
