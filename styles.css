@@ -37,4 +37,14 @@ li a:hover {
 .log
 {
     float : right;
+    color : #fff;
+    text-align: center;
+}
+
+.fas
+{
+    float : right;
+    color: #fff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
 }
