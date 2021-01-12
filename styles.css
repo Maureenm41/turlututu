@@ -94,7 +94,7 @@ div
 .button
 {
     background-color: #E99002;
-    border :  solid #fff;
+    border-style : 3em solid #fff;
     color :#fff;
     padding :auto;
     text-align: center;
