@@ -97,13 +97,9 @@ li a:hover {
 {display: inline-block;
     width: 30%;
     height: 20%;
-    margin-right: 20px;
-    margin-top: 15px; 
-    float: center;
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    vertical-align:middle;
+    
 
 }
 
