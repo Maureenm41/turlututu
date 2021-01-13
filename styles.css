@@ -83,6 +83,20 @@ li a:hover {
     font-size:25px;
 }
 
+.img
+{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 30px; 
+    }
+
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+
 .logo2
 {display: inline-block;
     width: 20%;
@@ -95,6 +109,10 @@ li a:hover {
     margin-right: auto
 }
 
+#theplug
+{
+    text-align: center;
+}
 
 .h1
 {
@@ -175,3 +193,4 @@ background-color:#EEEEEE;
     margin-left: auto;
     margin-right: 10px;
 }
+
