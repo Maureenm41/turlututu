@@ -62,11 +62,10 @@ li a:hover {
     font-size: 1.5em;
 }
 
-div 
+div
 {
     background-color : #1E93CC ;
 }
-
 
 .programmeur
 {
@@ -109,4 +108,14 @@ p
 {
     margin: 10px 0;
     padding: 5px;
+}
+.sponsor
+{
+background-color:#EEEEEE;
+}
+
+.logospon
+{
+    max-height: 150px;
+    max-width: 200px;
 }
