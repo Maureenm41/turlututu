@@ -133,6 +133,12 @@ li a:hover {
     width: 230px;
 }
 
+#button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 p
 {
     margin: 10px 0;
@@ -141,6 +147,14 @@ p
 .sponsor
 {
 background-color:#EEEEEE;
+
+}
+
+#logospon
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logospon
@@ -160,5 +174,4 @@ background-color:#EEEEEE;
     display: block;
     margin-left: auto;
     margin-right: 10px;
-    right: 100%;
 }
