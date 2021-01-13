@@ -89,7 +89,8 @@ li a:hover {
     height:30%;
     margin-left: auto;
      margin-right: auto;
-        
+     display: inline-block;
+    vertical-align:middle;
     }
 
 .logo2
@@ -101,7 +102,9 @@ li a:hover {
     float: center;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    vertical-align:middle;
+
 }
 
 #theplug
