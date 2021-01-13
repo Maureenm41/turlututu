@@ -144,3 +144,9 @@ color:#165882;
 position: relative;
 left:3pxS;
 }
+
+#centerquote
+{
+    text-align: center;
+    font-size: 30px;
+}
